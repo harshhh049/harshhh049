@@ -1,11 +1,12 @@
 # Hi, I'm Harsh Tawari 👋
 
-### 3rd Year AIML Student @ VIT Pune | C++ | DSA | AI/ML | Web Development
+### 3rd Year AIML Student @ VIT Pune | AI/ML | C++ | DSA | Web Development
 
-I'm a 3rd year Computer Engineering student passionate about **problem solving, software development, and building practical projects**.
+I'm a 3rd year Artificial Intelligence and Machine Learning student at VIT Pune, passionate about **AI/ML, problem solving, software development, and building practical projects**.
 
-- 🎓 Currently pursuing Computer Engineering
+- 🎓 Currently pursuing **Artificial Intelligence and Machine Learning**
 - 💻 Learning **C++ & Data Structures and Algorithms**
+- 🤖 Exploring **Artificial Intelligence and Machine Learning**
 - 🌐 Exploring **Web Development**
 - 🚀 Currently working on a **Real-Time LAN Chat Application**
 - 📚 Preparing for **Software Engineering Internships**
@@ -35,30 +36,38 @@ I'm a 3rd year Computer Engineering student passionate about **problem solving, 
 
 ---
 
-## 🚀 Featured Project
+## 🚀 Current Project
 
-### 💬 Real-Time LAN Chat Application
+### Real-Time LAN Chat Application
 
-A real-time chat application designed for communication over a Local Area Network.
+A real-time chat application designed for communication between devices on the same local network.
 
-**Tech Stack:** Web Development • Socket Programming • MySQL
-
----
-
-## 📊 My Goals
-
-- 🧠 Strengthen my DSA and problem-solving skills
-- 💻 Build strong real-world projects
-- 🌐 Improve my full-stack development skills
-- 🎯 Prepare for Software Engineering internships
-- 🚀 Continuously learn and improve
+**Focus:** Web Development • Socket Programming • MySQL
 
 ---
 
-## 🤝 Connect With Me
+## 📚 Currently Learning
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/harsh-tawari-888722271/)
-- 💻 [GitHub](https://github.com/harshhh049)
+- Data Structures & Algorithms
+- Artificial Intelligence & Machine Learning
+- Web Development
+- Problem Solving
+
+---
+
+## 🎯 Goals
+
+- Build strong fundamentals in **DSA and AI/ML**
+- Develop practical and meaningful projects
+- Contribute to open-source projects
+- Secure a good **Software/AI-ML Internship**
+- Continuously improve my problem-solving skills
+
+---
+
+## 📫 Connect With Me
+
+- LinkedIn: [Harsh Tawari](https://www.linkedin.com/in/harsh-tawari-888722271/)
 
 ---
 
