@@ -1,6 +1,6 @@
 # Hi, I'm Harsh Tawari 👋
 
-###3rd Year AIML Student @ VIT Pune | C++ | DSA | AI/ML | Web Development
+### 3rd Year AIML Student @ VIT Pune | C++ | DSA | AI/ML | Web Development
 
 I'm a 3rd year Computer Engineering student passionate about **problem solving, software development, and building practical projects**.
 
