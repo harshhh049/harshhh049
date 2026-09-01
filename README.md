@@ -1,16 +1,65 @@
-## Hi there 👋
+# Hi, I'm Harsh Tawari 👋
 
-<!--
-**harshhh049/harshhh049** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 3rd Year Computer Engineering Student | Aspiring Software Engineer
 
-Here are some ideas to get you started:
+I'm a 3rd year Computer Engineering student passionate about **problem solving, software development, and building practical projects**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Currently pursuing Computer Engineering
+- 💻 Learning **C++ & Data Structures and Algorithms**
+- 🌐 Exploring **Web Development**
+- 🚀 Currently working on a **Real-Time LAN Chat Application**
+- 📚 Preparing for **Software Engineering Internships**
+- 🤝 Open to learning, collaborating and building interesting projects
+
+---
+
+## 🛠️ Technologies & Tools
+
+### Programming
+- C++
+- Java
+- JavaScript
+
+### Web Development
+- HTML
+- CSS
+- JavaScript
+
+### Database
+- MySQL
+
+### Tools
+- Git
+- GitHub
+- VS Code
+
+---
+
+## 🚀 Featured Project
+
+### 💬 Real-Time LAN Chat Application
+
+A real-time chat application designed for communication over a Local Area Network.
+
+**Tech Stack:** Web Development • Socket Programming • MySQL
+
+---
+
+## 📊 My Goals
+
+- 🧠 Strengthen my DSA and problem-solving skills
+- 💻 Build strong real-world projects
+- 🌐 Improve my full-stack development skills
+- 🎯 Prepare for Software Engineering internships
+- 🚀 Continuously learn and improve
+
+---
+
+## 🤝 Connect With Me
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/harsh-tawari-888722271/)
+- 💻 [GitHub](https://github.com/harshhh049)
+
+---
+
+⭐ Thanks for visiting my profile!
